@@ -1,6 +1,6 @@
 Ｈｅｌｌｏ!
 -I’m @Aymen-Elghoul 👽💚
--💻 I’m currently learning C# , C & Python .
+-💻 I’m currently learning C# , C , java & Python .
 -💭 How to reach me : aymen2002elghoul@gmail.com
 
 <!---
